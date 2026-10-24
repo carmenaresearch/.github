@@ -7,6 +7,8 @@ We are building public research and analysis alongside commissioned polling, res
 - [Subscribe to the research newsletter](https://carmenaresearch.substack.com)
 - [Follow Carmena's on LinkedIn](https://www.linkedin.com/company/carmenaresearch/)
 
-For research enquiries, contact **obaid50432@gmail.com**.
+For research enquiries, contact **queries@carmenaresearch.com**.
 
 Public releases will state their sources, scope, limitations and reuse terms. No dataset is offered for download here yet.
+
+[Research website](https://carmenaresearch.com) · [Follow Carmena’s on X](https://x.com/CarmenaResearch)
