@@ -1,14 +1,15 @@
-# Carmena's Overton & Electoral Research
+# Carmena’s Overton & Electoral Research
 
-Predictive modelling and research for elections, behaviour and the Overton window.
+Independent research on elections, public opinion and the Overton window.
 
-We are building public research and analysis alongside commissioned polling, research and deeper data work. This space will host selected public methods, reproducible examples and data releases as they become available.
+Our [research website](https://carmenaresearch.com) brings together election analysis, public data and methodology. This GitHub organisation is the home for supporting code and reproducible research as it is released.
 
-- [Subscribe to the research newsletter](https://carmenaresearch.substack.com)
-- [Follow Carmena's on LinkedIn](https://www.linkedin.com/company/carmenaresearch/)
+- [Read the research](https://carmenaresearch.com/blog/)
+- [Explore public data](https://carmenaresearch.com/data/)
+- [Read the methodology](https://carmenaresearch.com/methodology/)
+- [Subscribe to the newsletter](https://carmenaresearch.substack.com)
+- [LinkedIn](https://www.linkedin.com/company/carmenaresearch/) · [X](https://x.com/CarmenaResearch)
 
-For research enquiries, contact **queries@carmenaresearch.com**.
+Research, press and commissioned-work enquiries: [queries@carmenaresearch.com](mailto:queries@carmenaresearch.com).
 
-Public releases will state their sources, scope, limitations and reuse terms. No dataset is offered for download here yet.
-
-[Research website](https://carmenaresearch.com) · [Follow Carmena’s on X](https://x.com/CarmenaResearch)
+See each release for its sources, limitations and reuse terms.
