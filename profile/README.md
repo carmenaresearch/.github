@@ -6,6 +6,8 @@ Our [research website](https://carmenaresearch.com) brings together election ana
 
 - [Read the research](https://carmenaresearch.com/blog/)
 - [Explore public data](https://carmenaresearch.com/data/)
+- [Open election data on GitHub](https://github.com/carmenaresearch/election-data): CSV tables on the 2026 US midterms, CC BY 4.0
+- [Research posts on GitHub](https://github.com/carmenaresearch/blog-posts): our analysis with charts and data tables
 - [Read the methodology](https://carmenaresearch.com/methodology/)
 - [Subscribe to the newsletter](https://carmenaresearch.substack.com)
 - [LinkedIn](https://www.linkedin.com/company/carmenaresearch/) · [X](https://x.com/CarmenaResearch)
