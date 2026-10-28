@@ -10,7 +10,8 @@ Our [research website](https://carmenaresearch.com) brings together election ana
 - [Research posts on GitHub](https://github.com/carmenaresearch/blog-posts): our analysis with charts and data tables
 - [Read the methodology](https://carmenaresearch.com/methodology/)
 - [Subscribe to the newsletter](https://carmenaresearch.substack.com)
-- [LinkedIn](https://www.linkedin.com/company/carmenaresearch/) · [X](https://x.com/CarmenaResearch)
+- [LinkedIn](https://www.linkedin.com/company/carmenaresearch/) · [X](https://x.com/CarmenaResearch) · [Bluesky](https://bsky.app/profile/carmenaresearch.bsky.social)
+- Data mirrors: [Hugging Face](https://huggingface.co/carmenaresearch) · [Kaggle](https://www.kaggle.com/carmenaresearch)
 
 Research, press and commissioned-work enquiries: [queries@carmenaresearch.com](mailto:queries@carmenaresearch.com).
 
